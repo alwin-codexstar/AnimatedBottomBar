@@ -2,8 +2,7 @@
 
 # Animated Bottom Bar
 
-(https://github.com/AB-star-50/Animated-Bottom-Bar/blob/main/shift_static.gif)
-
+Customized Bottom Bar with Animations
 
 ## What is this component about?
 
